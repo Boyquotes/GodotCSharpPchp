@@ -1,0 +1,3 @@
+C:\Users\pc-system\AppData\Local\Temp\godot-publish-dotnet\13364-ExportRelease-win-x64\Window.dll
+C:\Users\pc-system\AppData\Local\Temp\godot-publish-dotnet\13364-ExportRelease-win-x64\sni.dll
+C:\Users\pc-system\AppData\Local\Temp\godot-publish-dotnet\13364-ExportRelease-win-x64\Application.pdb

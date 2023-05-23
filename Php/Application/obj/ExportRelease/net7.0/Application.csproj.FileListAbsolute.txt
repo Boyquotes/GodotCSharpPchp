@@ -1,0 +1,7 @@
+E:\Godot4\GodotCSharp\GodotSharp\Php\Application\bin\ExportRelease\net7.0\Application.deps.json
+E:\Godot4\GodotCSharp\GodotSharp\Php\Application\bin\ExportRelease\net7.0\Application.dll
+E:\Godot4\GodotCSharp\GodotSharp\Php\Application\bin\ExportRelease\net7.0\Application.pdb
+E:\Godot4\GodotCSharp\GodotSharp\Php\Application\obj\ExportRelease\net7.0\Application.csproj.AssemblyReference.cache
+E:\Godot4\GodotCSharp\GodotSharp\Php\Application\obj\ExportRelease\net7.0\Application.csproj.CoreCompileInputs.cache
+E:\Godot4\GodotCSharp\GodotSharp\Php\Application\obj\ExportRelease\net7.0\Application.dll
+E:\Godot4\GodotCSharp\GodotSharp\Php\Application\obj\ExportRelease\net7.0\Application.pdb

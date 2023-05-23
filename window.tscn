@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://dd7akjda5sfmr"]
+
+[ext_resource type="Script" path="res://Window.cs" id="1_sgos2"]
+
+[node name="Window" type="Node2D"]
+script = ExtResource("1_sgos2")
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Button" type="Button" parent="Control"]
+layout_mode = 0
+offset_right = 503.0
+offset_bottom = 97.0

@@ -1,0 +1,39 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Window"
+run/main_scene="res://window.tscn"
+config/features=PackedStringArray("4.0", "C#", "GL Compatibility")
+run/max_fps=40
+run/low_processor_mode=true
+config/icon="res://icon.svg"
+
+[display]
+
+window/vsync/vsync_mode=0
+window/ios/allow_high_refresh_rate=false
+window/ios/hide_home_indicator=false
+window/ios/hide_status_bar=false
+window/ios/suppress_ui_gesture=false
+
+[dotnet]
+
+project/assembly_name="Window"
+
+[physics]
+
+common/physics_ticks_per_second=40
+common/max_physics_steps_per_frame=4
+
+[rendering]
+
+renderer/rendering_method.mobile="gl_compatibility"

@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Window", "Window.csproj", "{3640BCF1-4114-413E-B0C9-C8E247008073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Php\Application\Application.csproj", "{A5D6189C-7708-45E8-A3E0-B80A80FD5CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3640BCF1-4114-413E-B0C9-C8E247008073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3640BCF1-4114-413E-B0C9-C8E247008073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3640BCF1-4114-413E-B0C9-C8E247008073}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{3640BCF1-4114-413E-B0C9-C8E247008073}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{3640BCF1-4114-413E-B0C9-C8E247008073}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{3640BCF1-4114-413E-B0C9-C8E247008073}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{A5D6189C-7708-45E8-A3E0-B80A80FD5CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D6189C-7708-45E8-A3E0-B80A80FD5CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D6189C-7708-45E8-A3E0-B80A80FD5CA0}.ExportDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D6189C-7708-45E8-A3E0-B80A80FD5CA0}.ExportDebug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D6189C-7708-45E8-A3E0-B80A80FD5CA0}.ExportRelease|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D6189C-7708-45E8-A3E0-B80A80FD5CA0}.ExportRelease|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal

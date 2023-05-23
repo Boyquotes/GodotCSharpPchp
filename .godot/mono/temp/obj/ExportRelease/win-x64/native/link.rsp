@@ -1,0 +1,37 @@
+﻿"E:\Godot4\GodotCSharp\GodotSharp\.godot\mono\temp\obj\ExportRelease\win-x64\native\Window.obj"
+/OUT:"E:\Godot4\GodotCSharp\GodotSharp\.godot\mono\temp\bin\ExportRelease\win-x64\native\Window.dll"
+/DEF:"E:\Godot4\GodotCSharp\GodotSharp\.godot\mono\temp\obj\ExportRelease\win-x64\native\Window.def"
+/LIBPATH:"E:\VS2022\VC\Tools\MSVC\14.34.31933\ATLMFC\lib\x64"
+/LIBPATH:"E:\VS2022\VC\Tools\MSVC\14.34.31933\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\\lib\10.0.22000.0\\um\x64"
+"E:\Godot4\GodotCSharp\GodotSharp\.godot\mono\temp\obj\ExportRelease\win-x64\native\Window.res"
+/DLL
+"C:\Users\pc-system\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.4\sdk\bootstrapperdll.lib"
+"C:\Users\pc-system\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.4\sdk\Runtime.WorkstationGC.lib"
+"C:\Users\pc-system\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.4\sdk\System.Globalization.Native.Aot.lib"
+"C:\Users\pc-system\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.4\sdk\System.IO.Compression.Native.Aot.lib"
+"advapi32.lib"
+"bcrypt.lib"
+"crypt32.lib"
+"iphlpapi.lib"
+"kernel32.lib"
+"mswsock.lib"
+"ncrypt.lib"
+"normaliz.lib"
+"ntdll.lib"
+"ole32.lib"
+"oleaut32.lib"
+"secur32.lib"
+"user32.lib"
+"version.lib"
+"ws2_32.lib"
+/NOLOGO /MANIFEST:NO
+/INCREMENTAL:NO
+/INCLUDE:NativeAOT_StaticInitialization
+/NATVIS:"C:\Program Files\dotnet\sdk\7.0.202\Sdks\Microsoft.DotNet.ILCompiler\build\NativeAOT.natvis"
+/NODEFAULTLIB:libucrt.lib
+/DEFAULTLIB:ucrt.lib
+/OPT:REF
+/OPT:ICF
